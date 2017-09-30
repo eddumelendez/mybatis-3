@@ -8,6 +8,7 @@ addons:
   hostname: mybatisci
 
 jdk:
+  - oraclejdk9
   - oraclejdk8
   - oraclejdk7
   - openjdk7
